@@ -1,5 +1,14 @@
-### Hi there 👋
+## Frognar
+Hello, my name is Sebastian. I embarked on my professional programming journey in 2021,
+following six years of passionate involvement as a hobbyist.
+My primary expertise lies in C#, although my programming foundation began with C++ and Java,
+and I've also explored Python to broaden my skill set.
+Presently, I'm delving into event sourcing to enhance my understanding of advanced system designs,
+with aspirations to further expand my knowledge by studying F# in the near future.
 
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frognar&show_icons=true&theme=dark)
+![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=frognar&langs_count=5&theme=dark&layout=compact)
 <!--
 **Frognar/Frognar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
