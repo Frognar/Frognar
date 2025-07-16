@@ -1,10 +1,13 @@
 ## Frognar
-Hello, my name is Sebastian. I embarked on my professional programming journey in 2021,
-following six years of passionate involvement as a hobbyist.
-My primary expertise lies in C#, although my programming foundation began with C++ and Java,
-and I've also explored Python to broaden my skill set.
-Presently, I'm delving into event sourcing to enhance my understanding of advanced system designs,
-with aspirations to further expand my knowledge by studying F# in the near future.
+### Hi, I'm Sebastian 👋
+I'm a C# developer and functional programming enthusiast from Poland, running my own software development business. With a professional journey that began in 2021, I have a strong background in C# and e-commerce platform development, complemented by experience in C++, Java, and Python.
+I'm passionate about writing clean, robust, and maintainable code. I am the author of several NuGet packages that bring functional concepts to .NET:
+
+- **[![NuGet version](https://img.shields.io/nuget/v/dotResult.svg?style=flat&label=dotResult&logo=nuget&color=gray&labelColor=darkgreen)](https://www.nuget.org/packages/dotResult/)**: A lightweight Result monad implementation.
+- **[![NuGet version](https://img.shields.io/nuget/v/dotMaybe.svg?style=flat&label=dotMaybe&logo=nuget&color=gray&labelColor=darkgreen)](https://www.nuget.org/packages/dotMaybe/)**: A simple Maybe monad to safely handle optional values.
+- **[![NuGet version](https://img.shields.io/nuget/v/dotValid.svg?style=flat&label=dotValid&logo=nuget&color=gray&labelColor=darkgreen)](https://www.nuget.org/packages/dotValid/)**: A library for accumulating validation errors using a functional approach.
+- **[![NuGet version](https://img.shields.io/nuget/v/dotUnit.svg?style=flat&label=dotUnit&logo=nuget&color=gray&labelColor=darkgreen)](https://www.nuget.org/packages/dotUnit/)**: A ultra-lightweight library that provides a Unit type.
+
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=frognar&show_icons=true&theme=dark)
